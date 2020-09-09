@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning python and deeplearning
+- 📫 How to reach me: sss4920@likelion.org
 <!--
 **sss4920/sss4920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
