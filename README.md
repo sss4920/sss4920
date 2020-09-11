@@ -15,7 +15,7 @@
   > * 날씨 api를 가져와 위젯만들기
   > * 웹캠으로 찍은 사진 상품인식해 인식한 사진 클래스별로 나누어 미디어에 저장하기
   > * 크롤링으로 가져온 데이터 keras 인공지능 학습시켜 유사 이미지 검색기능
-<hr>
+> <hr>
 <!--
 **sss4920/sss4920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
