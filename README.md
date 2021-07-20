@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning python and django
 
-- :beginner:  2021.5.17 ~ 2022.11.16 in the military
+-   :beginner:  2021.5.17 ~ 2022.11.16 in the military
 
 - 📫 How to reach me: sss4920@likelion.org
 
