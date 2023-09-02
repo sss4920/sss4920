@@ -4,6 +4,7 @@
 <div align="center">
   <h3> 🌱 I’m currently learning Java and Spring </h3>
   <h3> Go sopt 32nd server YB </h3>
+  <h3> Do sopt 33nd server OB </h3>
 <hr>
 <!--
 **sss4920/sss4920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
