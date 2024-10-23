@@ -13,11 +13,18 @@
 |성공회대학교| 2019.03~ 2025.02 | 성공회대학교 컴퓨터공학과 재학 |
 |멋쟁이사자처럼 7th, 8th|2019.03 ~ 2020.08| 대학생 연합 코딩 교육 동아리 |
 
+<h2>🏅 AWARDS </h2> 
+
+|Description|Period|
+|:---:|:---:|
+|SOPT 33기 앱잼 우수상|2024|
+|SOPT 33기 솝커톤, 웹 서비스 부문 대상|2023.11|
+|SOPT 32기 앱잼 최우수상|2023|
+|SOPT 32기 솝커톤, 웹 서비스 부문 대상|2023.05|
 
 <div align="center">
     <h2>📚 Tech Stack 📚</h2>
 </div>
-<div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<br>
@@ -29,8 +36,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" /> 
-</div>
-  
 <br>
 <div align=center>
 	<h2>🏆 Baekjoon solved rank 🏆</h2>
