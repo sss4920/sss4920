@@ -1,7 +1,7 @@
 <div align="center">
     <h2>Greetings</h2>
 	
-	공부한 지식을 공유하는 것을 좋아하며, 꾸준히 성장하는 개발자가 되고싶습니다.
+	공부한 지식을 공유하는 것을 좋아하며, 개발 블로그와 함께 꾸준히 성장하고 있는 개발자입니다.
 <br>
 <h2>🎓 Experience & Social Activity</h2>
 
