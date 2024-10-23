@@ -1,11 +1,19 @@
 <div align="center">
     <h2>Greetings</h2>
-    <h3>자바, 스프링을 공부하는 대학생입니다. </h3>
-    <h3>공부한 지식을 공유하는 것을 좋아하며, 꾸준히 성장하는 개발자가 되고싶습니다.</h3>
+	
+	공부한 지식을 공유하는 것을 좋아하며, 꾸준히 성장하는 개발자가 되고싶습니다.
 <hr>
-<!--
-**sss4920/sss4920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  -->
+<h2>🎓 Experience & Social Activity</h2>
+
+|소속 및 단체|활동 기간|내용|
+|---|---|---|
+|Palms.blog|2024.08 ~ | B2B 팀블로그 웹 빌더 서비스 유지보수 |
+|멋쟁이사자처럼 12th|2024.03 ~ | code 리뷰로 함께 성장하는 가치를 공유하고 있습니다. |
+|SOPT 32th, 33th|2023.03 ~ 2024.02 | 대학생 연합 IT 벤처 창업 연합 SOPT Server Backend |
+|성공회대학교| 2019.03~ 2025.02 | 성공회대학교 컴퓨터공학과 재학 |
+|멋쟁이사자처럼 7th, 8th|2019.03 ~ 2020.08| 대학생 연합 코딩 동아리로 python, Django에 대해 학습했습니다. |
+
+
 <div align=center>
 	<h2>📚 Tech Stack 📚</h2>
 </div>
