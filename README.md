@@ -2,7 +2,7 @@
     <h2>Greetings</h2>
 	
 	공부한 지식을 공유하는 것을 좋아하며, 꾸준히 성장하는 개발자가 되고싶습니다.
-<hr>
+<br>
 <h2>🎓 Experience & Social Activity</h2>
 
 |소속 및 단체|활동 기간|내용|
@@ -14,8 +14,8 @@
 |멋쟁이사자처럼 7th, 8th|2019.03 ~ 2020.08| 대학생 연합 코딩 동아리로 python, Django에 대해 학습했습니다. |
 
 
-<div align=center>
-	<h2>📚 Tech Stack 📚</h2>
+<div align="center">
+    <h2>📚 Tech Stack 📚</h2>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -55,6 +55,7 @@
 |Toaster|링크 아카이빙 앱 서비스|2023.12 ~ |[Git](https://github.com/Link-MIND/TOASTER-Server) [App Store](https://apps.apple.com/kr/app/toaster-%ED%86%A0%EC%8A%A4%ED%84%B0-%EB%A7%81%ED%81%AC-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B9%99-%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%93%9C/id6476194200)| 
 |Palms|B2B 팀블로그 웹 빌더 스타트업|2024.09 ~ |[WebSites](https://www.palms.blog/)|
 </div>
+
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=sss4920&show_icons=true">
