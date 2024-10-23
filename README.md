@@ -43,7 +43,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sss4920)](https://solved.ac/sss4920)
 </div>
 <div align=center>
-	<h2>🎨 STUDY BLOG 🎨</h2>
+	<h2>🎨 DEV STUDY BLOG 🎨</h2>
 </div>
 <div align=center>
 	<a href="https://blog.naver.com/sss4920">
