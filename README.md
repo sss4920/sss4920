@@ -1,16 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Soohyun's%20github&fontSize=90" />
-</div>
-<div align="center">
-  <h3> 🌱 I’m currently learning Java and Spring </h3>
-  <h3> Go sopt 32nd server YB </h3>
-  <h3> Do sopt 33nd server OB </h3>
+    <h2>Greetings</h2>
+    <h3>자바, 스프링을 공부하는 대학생입니다. </h3>
+    <h3>공부한 지식을 공유하는 것을 좋아하며, 꾸준히 성장하는 개발자가 되고싶습니다.</h3>
 <hr>
 <!--
 **sss4920/sss4920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   -->
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h2>📚 Tech Stack 📚</h2>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -28,12 +25,12 @@
   
 <br>
 <div align=center>
-	<p>🏆 Baekjoon solved rank 🏆</p>
+	<h2>🏆 Baekjoon solved rank 🏆</h2>
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sss4920)](https://solved.ac/sss4920)
 </div>
 <div align=center>
-	<p>🎨 STUDY BLOG 🎨</p>
+	<h2>🎨 STUDY BLOG 🎨</h2>
 </div>
 <div align=center>
 	<a href="https://blog.naver.com/sss4920">
@@ -41,8 +38,16 @@
 	</a>
 	<br>
 </div>
-<br>
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sss4920&layout=compact"><br><br>
+    <h2> 📑 PROJECT </h2>
+    
+|Name|Description|Duration|Link|
+|:---:|:------:|:----:|:---:|
+|Winey|절약 게이미피케이션 앱 서비스|2024.06 ~ |[Git](https://github.com/team-winey/Winey-Server)  [App Store](https://apps.apple.com/kr/app/%EC%9C%84%EB%8B%88-%EC%89%BD%EA%B3%A0-%EC%9E%AC%EB%B0%8C%EB%8A%94-%EA%B8%8D%EC%A0%95%EC%A0%81-%EC%86%8C%EB%B9%84%EC%8A%B5%EA%B4%80-%ED%98%95%EC%84%B1/id6463294662)|
+|Toaster|링크 아카이빙 앱 서비스|2024.10 ~ |[Git](https://github.com/Link-MIND/TOASTER-Server) [App Store](https://apps.apple.com/kr/app/toaster-%ED%86%A0%EC%8A%A4%ED%84%B0-%EB%A7%81%ED%81%AC-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B9%99-%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%93%9C/id6476194200)| 
+|Palms|B2B 팀블로그 웹 빌더 스타트업|2024.09 ~ |[WebSites](https://www.palms.blog/)|
+</div>
+
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=sss4920&show_icons=true">
 </div>
