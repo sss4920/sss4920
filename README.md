@@ -57,8 +57,8 @@
 |Name|Description|Duration|Link|
 |:---:|:------:|:----:|:---:|
 |Palms(private)|B2B 팀블로그 웹 빌더 스타트업|2024.09 ~ |[WebSites](https://www.palms.blog/)|
-|Toaster|링크 아카이빙 앱 서비스|2023.12 ~ |[Git](https://github.com/Link-MIND/TOASTER-Server) [App Store](https://apps.apple.com/kr/app/toaster-%ED%86%A0%EC%8A%A4%ED%84%B0-%EB%A7%81%ED%81%AC-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B9%99-%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%93%9C/id6476194200)| 
-|Winey|절약 게이미피케이션 앱 서비스|2023.06 ~ |[Git](https://github.com/team-winey/Winey-Server)  [App Store](https://apps.apple.com/kr/app/%EC%9C%84%EB%8B%88-%EC%89%BD%EA%B3%A0-%EC%9E%AC%EB%B0%8C%EB%8A%94-%EA%B8%8D%EC%A0%95%EC%A0%81-%EC%86%8C%EB%B9%84%EC%8A%B5%EA%B4%80-%ED%98%95%EC%84%B1/id6463294662)|
+|Toaster|링크 아카이빙 앱 서비스|2023.12 ~ |[Git](https://github.com/Link-MIND/TOASTER-Server) [App Store](https://apps.apple.com/kr/app/toaster-%ED%86%A0%EC%8A%A4%ED%84%B0-%EB%A7%81%ED%81%AC-%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B9%99-%EB%A6%AC%EB%A7%88%EC%9D%B8%EB%93%9C/id6476194200)  [Play Store](https://play.google.com/store/apps/details?id=org.sopt.linkmind&pcampaignid=web_share)| 
+|Winey|절약 게이미피케이션 앱 서비스|2023.06 ~ |[Git](https://github.com/team-winey/Winey-Server)  [App Store](https://apps.apple.com/kr/app/%EC%9C%84%EB%8B%88-%EC%89%BD%EA%B3%A0-%EC%9E%AC%EB%B0%8C%EB%8A%94-%EA%B8%8D%EC%A0%95%EC%A0%81-%EC%86%8C%EB%B9%84%EC%8A%B5%EA%B4%80-%ED%98%95%EC%84%B1/id6463294662)  [Play Store](https://play.google.com/store/apps/details?id=org.go.sopt.winey&pcampaignid=web_share)|
 </div>
 
 
